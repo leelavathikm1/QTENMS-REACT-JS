@@ -1,0 +1,67 @@
+body{
+    font-family: Georgia, "Times New Roman", Times, serif;
+}
+.headSection {
+    background: #0e0c0c;
+    color: white;
+}
+header {
+    width: 800px;
+    margin: 0 auto;
+    overflow: auto;
+}
+div#logo {
+    width: 200px;
+    float: left;
+    margin-top: 15px;
+}
+#logo p {
+    font-size: 11px;
+    background: lightgray;
+    color: black;
+}
+header nav {
+    width: 530px;
+    float: right;
+    margin: 15px 0 15px;
+    background: gray;
+}
+header nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+div#ImageParent {
+    width: 800px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+#ImageParent img {
+    width: 800px;
+    height: 300px;
+}
+div#divsParent {
+    width: 800px;
+    margin: 0 auto;
+}
+figure {
+    width: 205px;
+    margin-left: 0;
+}
+section {
+    width: 215px;
+    float: left;
+    margin-right: 51px;
+}
+figcaption {
+    width: 240px;
+    font-size: 15px;
+}
+h3 {
+    font-style: italic;
+}
+figcaption p a {
+    font-size: 10px;
+    color: orange;
+    float: right;
+    text-decoration: none;
+}
